@@ -1,0 +1,12 @@
+Dockerfile
+.dockerignore
+node_modules
+npm-debug.log
+dist
+.husky
+docker-compose.yml
+README.md
+.eslint*
+.prettier*
+.gitignore
+.gitattributes
